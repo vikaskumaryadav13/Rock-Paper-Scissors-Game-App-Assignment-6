@@ -1,0 +1,16 @@
+.result-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: bree-serif;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 4px;
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  color: #223a5f;
+  border-style: none;
+  outline: none;
+}
